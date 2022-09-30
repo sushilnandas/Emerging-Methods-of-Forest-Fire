@@ -1,1 +1,0 @@
-# Emerging-Methodsof-Forest-Fire
