@@ -10,7 +10,7 @@
 *  Karthick T K
 
 ### Ideation Phase
-*  [Brainstorming](Project Design and Planning/Ideation Phase/brainstorm on emerging of fores fires.pdf)
+*  [Brainstorming](https://github.com/sushilnandas/Emerging-Methods-of-Forest-Fire/blob/main/Project%20Design%20and%20Planning/Ideation%20Phase/brainstorm%20on%20emerging%20of%20fores%20fires.pdf)
 *  [Empathy Map]
 *  [Literature Survey]
 *  [Problem Statement]
