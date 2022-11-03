@@ -3,7 +3,7 @@
 ### Team ID: PNT2022TMID52514
 
 ### Batch Members:
-*  Sushilnandas s S
+*  Sushilnandas S S
 *  Santhiya K
 *  Amala Ajin A
 *  Sherlin Francis
