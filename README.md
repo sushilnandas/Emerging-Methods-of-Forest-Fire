@@ -10,7 +10,7 @@
 *  Karthick T K
 
 ### Ideation Phase
-*  [Brainstorming]
+*  [Brainstorming](Project Design and Planning/Ideation Phase/brainstorm on emerging of fores fires.pdf)
 *  [Empathy Map]
 *  [Literature Survey]
 *  [Problem Statement]
